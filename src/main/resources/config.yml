@@ -1,0 +1,3 @@
+token: discord token
+uri: mongoURI
+guild: guildID
